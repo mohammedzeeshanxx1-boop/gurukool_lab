@@ -1,0 +1,6 @@
+{
+  "name": "PHYSIX AI",
+  "description": "AI-powered interactive STEM learning and virtual laboratory platform for Classes 6–10 across NCERT/CBSE and Karnataka State Board.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
